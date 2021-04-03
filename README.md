@@ -1,2 +1,2 @@
 # design-patterns
-Implementations of the disign patterns in Java/Kotlin
+Implementations of the design patterns in Java/Kotlin
